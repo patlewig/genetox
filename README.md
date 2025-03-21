@@ -5,7 +5,7 @@ Code repository supporting the following manuscript:
 
 Pradeep P, Judson R, DeMarini DM, Keshava N, Martin TM, Dean J, Gibbons CF, Simha A, Warren SH, Gwinn MR, **Patlewicz G**. 2021. An Evaluation of Existing QSAR Models and Structural Alerts and Development of New Ensemble Models for Genotoxicity Using a Newly Compiled Experimental Dataset. Computational Toxicology *in press* https://doi.org/10.1016/j.comtox.2021.100167
 
-Associated data files and figures are available at: https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/CompTox-genetox
+Associated data files and figures are available at: https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/CompTox-genetox or DOI 10.5281/zenodo.15065075.
 
 
 
